@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @Hwiw1997
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Hwiw1997/Hwiw1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-https://sites.google.com/xn--72cf8da6gd7j3ao.com/changfaifiservise24hr/<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/th_TH/sdk.js#xfbml=1&version=v17.0&appId=1939034019789824&autoLogAppEve
-  nts=1" nonce="yHARFCgV"></script><div class="fb-post" data-href="https://web.facebook.com/changfaifadoncom/posts/pfbid03vpQ35Swb7KyhZBKQAB3vYoiJVxMyAsLFgkCLbjC77K4Bv7sgwXnejG3J6BwCcXPl" data-width="650" data-show-text="true"><blockquote cite="https://www.facebook.com/changfaifadoncom/posts/163676270034968" class="fb-xfbml-parse-ignore"><p>เปลี่ยนเมนเบรกเกอร์ 3เฟส งานแก้ไขระบบไฟฟ้าด่วนในหอพัก ซ่อมตู้ไฟฟ้า ติดตั้งระบบไฟฟ้าใหม่ บริการแก้ไขระบบไฟฟ้าเร่งด่วน...</p>โพสต์โดย <a href="https://www.facebook.com/changfaifadoncom">เพจช่างหวิว ช่างไฟฟ้าบริการ 24 ช.ม.</a> เมื่อ&nbsp;<a href="https://www.facebook.com/changfaifadoncom/posts/163676270034968">วันศุกร์ที่ 23 มิถุนายน  2023</a></blockquote></div>
+https://developers.google.com/identity/protocols/OAuth2?hl=th
+--->https://www.xn--72cf8da6gd7j3ao.com/%E0%B8%8A%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B8%B2%E0%B8%9A%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3-24-%E0%B8%8A-%E0%B8%A1-%E0%B8%8A%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B8%B2-com![Screenshot_20230918_192433](https://github.com/Hwiw1997/Hwiw1997/assets/143664820/e695c192-598f-49d8-b5eb-39ea7f22e3ef)https://developers.google.com/my-business/reference/businesscalls/rest/v1/locations/getBusinesscallssettings?hl=th#
+http-requestgRPC Transcoding
+https://docs.google.com/spreadsheets/d/1A-C5nzafMD9Nu3Frhm_ao31w5T-VXqy6/edit?usp=drivesdk&ouid=111313809897489146096&rtpof=true&sd=truestring
+rdc
+PATCH https://mybusinessbusinesscalls.googleapis.com/v1/{businessCallsSettings.name=locations/*/businesscallssettings}
+tel+66962233626
+businessCallsSettings.name
+string บริการงานซ่อมไฟฟ้าเร่งด่วน
